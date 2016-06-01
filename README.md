@@ -2,7 +2,7 @@
 
 # GWSTheWayOfAndroid
 
-Set of wiki notes on Android Application Development.
+Set of wiki notes on Android Application Development. wiki is at [GWSTheWayOfAndroid](https://github.com/shareme/GWSTheWayOfAndroid/wiki)
 
 
 # Changelog
